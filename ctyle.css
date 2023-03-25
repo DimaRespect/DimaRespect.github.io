@@ -1,0 +1,17 @@
+#qw{
+    margin-right: 125px;
+}
+#a{
+    color: chocolate;
+}
+#q{
+    margin-left: 125px;
+    background-color: aquamarine;
+}
+.div{
+    border-style: dotted;
+    border-width: 10px;
+}
+body{
+    background: url(Без\ названия.jpg);
+}
